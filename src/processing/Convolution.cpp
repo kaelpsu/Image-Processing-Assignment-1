@@ -1,4 +1,4 @@
-#include "Convolution.hpp"
+#include "processing/Convolution.hpp"
 #include <algorithm>
 
 using namespace std;

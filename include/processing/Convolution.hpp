@@ -1,5 +1,5 @@
 #pragma once
-#include "Image.hpp"
+#include "core/Image.hpp"
 #include <vector>
 
 using Kernel = std::vector<std::vector<float>>;
