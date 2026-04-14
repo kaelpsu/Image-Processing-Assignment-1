@@ -1,8 +1,4 @@
-#include "processing/Median.hpp"
-
-#include <algorithm>
-#include <array>
-#include <cstddef>
+#pragma once
 
 #include "core/Image.hpp"
 
