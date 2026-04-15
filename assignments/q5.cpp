@@ -46,6 +46,6 @@ int main(int argc, char* argv[]) {
     }
 
     std::cout << "Processing complete. Inspect the output directory to select the best configuration.\n";
-    std::cout << "\"result_k1_1.0_k2_2.5.pgn\" appers to be the best.\n";
+    std::cout << "\"result_k1_1.0_k2_2.5.pgm\" appers to be the best.\n";
     return 0;
 }
