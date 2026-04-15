@@ -35,3 +35,6 @@ Image median(const Image &input) {
 
     return out;
 }
+
+template Image median<3>(const Image &input);
+template Image median<5>(const Image &input);
